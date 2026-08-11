@@ -13,7 +13,7 @@
 ```python
 class RaghulSriram:
     def __init__(self):
-        self.name = "Raghul Sriram"
+        self.name = "RaghulSriram"
         self.role = "Data Analyst"
         self.degree = "B.E. Computer Science and Engineering"
         self.stack = ["Python", "SQL", "MySQL", "Power BI",
